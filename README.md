@@ -1,4 +1,3 @@
-# primerExamen
 milto@DESKTOP-03HF7M9 MINGW64 ~ (main)
 $ cd onedrive
 
